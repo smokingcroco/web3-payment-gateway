@@ -7,10 +7,10 @@ This npm package is designed to enhance the functionality of existing Web3 payme
 You can install the package using npm:
 
 ```bash
-npm install web3-payment-gateway
+npm install web3-payment-gway
 ```
 
-Replace `web3-payment-gateway` with the actual name you publish your package under.
+Replace `web3-payment-gway` with the actual name you publish your package under.
 
 ## Features
 
@@ -23,7 +23,7 @@ Replace `web3-payment-gateway` with the actual name you publish your package und
 To use this package, import it into your project:
 
 ```javascript
-const web3Enhancements = require('web3-payment-gateway');
+const web3Enhancements = require('web3-payment-gway');
 ```
 
 Set up the payment gateway with necessary configurations:
